@@ -7,5 +7,5 @@ Don't forget to include them in your project!
 
 - [Eclipse Java](https://github.com/apmes/gitignore/eclipsejava.gitignore)
 
-## References
+### References
 [Github gitignore](https://github.com/github/gitignore)
